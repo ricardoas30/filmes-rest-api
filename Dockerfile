@@ -10,6 +10,7 @@ EXPOSE 8080
 # Comando para iniciar o projeto Java no Container
 ENTRYPOINT ["java", "-jar", "filmes-series-0.0.1-SNAPSHOT.jar"]
 
+
 # Atualiza a imagem com os pacotes
 # RUN apt-get update && apt-get upgrade -y
 
