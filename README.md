@@ -1,7 +1,7 @@
 
 # Filme Séries Rest API
 
-Projeto API de apoio ao projeto Filmes e Séries é o back-end.
+Projeto API de apoio ao projeto Filmes e Séries. Este é o back-end.
 
 ### Stack utilizada
 
