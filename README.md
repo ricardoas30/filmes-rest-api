@@ -3,7 +3,8 @@
 
 Projeto API back-end utilizando o Spring Boot e Web Flux. O Spring WebFlux é um projeto que permite criar aplicações reativas. 
 Isso significa que a requisição do cliente não fica bloqueada enquanto os processos internos são executados pelo aplicativo no sistema operacional.
-Este projeto de API Rest tem objetivo de apoiar o projeto educacional filmes e séries, sendo o seu back-end.
+
+> Este projeto de API Rest tem objetivo de apoiar o projeto educacional filmes e séries, sendo o seu back-end.
 
 ### Stack utilizada
 
